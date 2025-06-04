@@ -1,1 +1,1 @@
-# Tic Tac Toe\n\nThis project implements a simple Tic Tac Toe game with clear rules and a basic interface.\n\n## Rules of Tic Tac Toe\n\n- The game is played on a 3x3 grid.\n- Two players take turns marking a cell, one with 'X' and the other with 'O'.\n- The first player to align three of their marks horizontally, vertically, or diagonally wins.\n- If all cells are filled and no player has achieved this, the game is a draw.\n\n## Setup\n\n- Clone the repository.\n- Open `index.html` in a web browser to start the game.\n\nEnjoy playing Tic Tac Toe!
+
